@@ -7,3 +7,8 @@
 - Dataset: MNIST (handwritten digits).
 - Model: Flatten → Dense(128, ReLU) → Dense(10, Softmax).
 - Achieved ~97% test accuracy.
+
+## Day 2 — Activation Functions
+- Compared Sigmoid vs ReLU on MNIST.
+- ReLU trained faster and achieved higher accuracy.
+- Learned why activation functions introduce non-linearity and prevent collapse into a linear model.
