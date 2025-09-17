@@ -12,3 +12,9 @@
 - Compared Sigmoid vs ReLU on MNIST.
 - ReLU trained faster and achieved higher accuracy.
 - Learned why activation functions introduce non-linearity and prevent collapse into a linear model.
+
+## Day 3 - Loss Functions & Optimizers
+- Learned about common loss functions (MSE, Cross-Entropy).  
+- Studied optimizers: SGD, Momentum, RMSProp, Adam.  
+- Implemented comparison on MNIST.  
+- Adam achieved the best test accuracy (~98%).  
