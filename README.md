@@ -18,3 +18,10 @@
 - Studied optimizers: SGD, Momentum, RMSProp, Adam.  
 - Implemented comparison on MNIST.  
 - Adam achieved the best test accuracy (~98%).  
+
+## Day 4 - Overfitting & Regularization
+
+- Studied overfitting and techniques to improve generalization.  
+- Implemented L2 regularization, Dropout, and Early Stopping.  
+- Dataset: MNIST.  
+- Achieved ~98% accuracy with reduced overfitting.  
