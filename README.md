@@ -25,3 +25,10 @@
 - Implemented L2 regularization, Dropout, and Early Stopping.  
 - Dataset: MNIST.  
 - Achieved ~98% accuracy with reduced overfitting.  
+
+## Day 5 - Intro to CNNs
+
+- Learned about convolutional and pooling layers.  
+- Implemented first CNN on CIFAR-10 dataset.  
+- Model: Conv → Pool → Conv → Pool → Dense.  
+- Achieved ~70% test accuracy after 5 epochs.  
