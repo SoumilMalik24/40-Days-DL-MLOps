@@ -32,3 +32,10 @@
 - Implemented first CNN on CIFAR-10 dataset.  
 - Model: Conv → Pool → Conv → Pool → Dense.  
 - Achieved ~70% test accuracy after 5 epochs.  
+
+## Day 6 - CNN on CIFAR-10 (Deeper Architectures)
+
+- Explored evolution of CNN architectures: LeNet, AlexNet, GoogLeNet, ResNet.  
+- Implemented a deeper CNN with Conv → Conv → Pool → Dropout blocks.  
+- Dataset: CIFAR-10.  
+- Achieved ~80% test accuracy after 15 epochs.  
