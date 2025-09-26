@@ -39,3 +39,10 @@
 - Implemented a deeper CNN with Conv → Conv → Pool → Dropout blocks.  
 - Dataset: CIFAR-10.  
 - Achieved ~80% test accuracy after 15 epochs.  
+
+## Day 7 - Batch Normalization & Dropout in CNNs
+
+- Studied how BatchNorm stabilizes training and Dropout prevents overfitting.  
+- Implemented CNN with Conv → BN → ReLU + Dropout in Dense layers.  
+- Dataset: CIFAR-10.  
+- Achieved ~82% test accuracy with improved generalization.  
