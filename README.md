@@ -46,3 +46,12 @@
 - Implemented CNN with Conv → BN → ReLU + Dropout in Dense layers.  
 - Dataset: CIFAR-10.  
 - Achieved ~82% test accuracy with improved generalization.  
+
+## Day 8 - Data Augmentation in CNNs
+
+- Learned how to apply random image transformations to expand training data.  
+- Techniques used: flipping, rotation, zoom, contrast.  
+- Integrated augmentation inside CNN pipeline.  
+- Dataset: CIFAR-10.  
+- Achieved ~65% test accuracy after 10 epochs.  
+- Note: Accuracy can improve significantly with deeper models or longer training.  
