@@ -40,7 +40,6 @@
 - Dataset: CIFAR-10.  
 - Achieved ~80% test accuracy after 15 epochs.  
 
-
 ## Day 7 - Batch Normalization & Dropout in CNNs
 
 - Studied how BatchNorm stabilizes training and Dropout prevents overfitting.  
