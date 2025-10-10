@@ -55,3 +55,11 @@
 - Dataset: CIFAR-10.  
 - Achieved ~65% test accuracy after 10 epochs.  
 - Note: Accuracy can improve significantly with deeper models or longer training.  
+
+## Day 9 - Transfer Learning
+
+- Learned how to reuse pretrained CNNs for new tasks.  
+- Used MobileNetV2 pretrained on ImageNet as a feature extractor.  
+- Added classifier head (Dense + Dropout + Softmax).  
+- Dataset: CIFAR-10.  
+- Achieved ~85–90% test accuracy in just 10 epochs.  
