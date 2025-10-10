@@ -63,3 +63,12 @@
 - Added classifier head (Dense + Dropout + Softmax).  
 - Dataset: CIFAR-10.  
 - Achieved ~85–90% test accuracy in just 10 epochs.  
+
+## Day 10 - Mini Project: Transfer Learning on Flowers Dataset 🌸
+
+- Applied all previous learnings: CNNs, regularization, augmentation, transfer learning.  
+- Used TensorFlow Flowers dataset with 5 classes.  
+- Base model: MobileNetV2 pretrained on ImageNet.  
+- Techniques: Data Augmentation + Dropout + EarlyStopping.  
+- Achieved 92%+ test accuracy.  
+- Perfect example of practical transfer learning for real-world data.  
