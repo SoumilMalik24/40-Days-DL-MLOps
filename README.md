@@ -72,3 +72,10 @@
 - Techniques: Data Augmentation + Dropout + EarlyStopping.  
 - Achieved 92%+ test accuracy.  
 - Perfect example of practical transfer learning for real-world data.  
+
+## Day 11 - Introduction to Deep Architectures
+
+- Learned how increasing network depth improves representation power.  
+- Understood issues like vanishing gradients and their solutions (ReLU, BatchNorm, Residuals).  
+- Compared shallow vs deep CNNs on CIFAR-10.  
+- Deep model achieved ~80–85% accuracy vs ~70% for shallow.  
