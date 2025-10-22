@@ -79,3 +79,11 @@
 - Understood issues like vanishing gradients and their solutions (ReLU, BatchNorm, Residuals).  
 - Compared shallow vs deep CNNs on CIFAR-10.  
 - Deep model achieved ~80–85% accuracy vs ~70% for shallow.  
+
+## Day 12 - ResNet Architecture
+
+- Learned about residual connections and how they solve the vanishing gradient problem.  
+- Implemented a simplified ResNet model on CIFAR-10 using Keras.  
+- Understood skip connections, identity mapping, and bottleneck structure.  
+- Compared ResNet with previous deep CNN — faster convergence and better generalization.  
+- Achieved ~86–88% test accuracy after 20 epochs.  
