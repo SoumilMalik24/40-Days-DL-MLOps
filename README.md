@@ -95,3 +95,11 @@
 - Understood dimensionality reduction using 1×1 convolutions.  
 - Compared performance with ResNet — similar accuracy (~80%) but different architectural philosophy.  
 - Achieved ~77–79% test accuracy after 25 epochs.  
+
+## Day 14 - VGG16 / VGG19
+
+- Learned how stacking small 3×3 convolutions builds deeper networks efficiently.  
+- Implemented a VGG16-like model on CIFAR-10.  
+- Observed increased depth → better generalization but higher computation.  
+- Compared with Inception: VGG is simpler but slower to train.  
+- Achieved ~89–91% accuracy after 30 epochs.  
