@@ -87,3 +87,11 @@
 - Understood skip connections, identity mapping, and bottleneck structure.  
 - Compared ResNet with previous deep CNN — faster convergence and better generalization.  
 - Achieved ~86–88% test accuracy after 20 epochs.  
+
+## Day 13 - Inception & GoogLeNet
+
+- Learned how Inception modules enable multi-scale feature extraction efficiently.  
+- Implemented a simplified GoogLeNet (Inception v1) on CIFAR-10.  
+- Understood dimensionality reduction using 1×1 convolutions.  
+- Compared performance with ResNet — similar accuracy (~80%) but different architectural philosophy.  
+- Achieved ~77–79% test accuracy after 25 epochs.  

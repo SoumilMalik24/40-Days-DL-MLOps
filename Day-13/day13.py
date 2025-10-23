@@ -4,7 +4,7 @@ Simplified Inception-v1 architecture on CIFAR-10 using Keras.
 """
 
 import tensorflow as tf
-from tensorflow.keras import layers, models, datasets, utils, callbacks
+from tensorflow.keras import layers, models, datasets, utils, callbacks #type: ignore
 
 tf.random.set_seed(42)
 
