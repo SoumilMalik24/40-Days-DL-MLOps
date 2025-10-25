@@ -1,5 +1,5 @@
 # 40-Daya-DL-MLOps
-🚀 40-Day Deep Learning + MLOps Journey | Implementations, notes, and projects based on Hands-On Machine Learning (3rd Ed.). Covers neural nets, CNNs, transfer learning, and MLOps practices like versioning, experiment tracking &amp; deployment.
+40-Day Deep Learning + MLOps Journey | Implementations, notes, and projects based on Hands-On Machine Learning (3rd Ed.). Covers neural nets, CNNs, transfer learning, and MLOps practices like versioning, experiment tracking &amp; deployment.
 
 ## Day 1 - First Neural Network (MNIST)
 
@@ -64,7 +64,7 @@
 - Dataset: CIFAR-10.  
 - Achieved ~85–90% test accuracy in just 10 epochs.  
 
-## Day 10 - Mini Project: Transfer Learning on Flowers Dataset 🌸
+## Day 10 - Mini Project: Transfer Learning on Flowers Dataset
 
 - Applied all previous learnings: CNNs, regularization, augmentation, transfer learning.  
 - Used TensorFlow Flowers dataset with 5 classes.  
