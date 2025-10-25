@@ -103,3 +103,11 @@
 - Observed increased depth → better generalization but higher computation.  
 - Compared with Inception: VGG is simpler but slower to train.  
 - Achieved ~89–91% accuracy after 30 epochs.  
+
+## Day 15 - Vision Transformers (ViT)
+
+- Learned how Transformers can process images by splitting them into patches.  
+- Implemented a mini Vision Transformer from scratch for CIFAR-10.  
+- Understood patch embedding, positional encoding, and self-attention.  
+- Observed that ViT performs competitively even without convolution layers.  
+- Achieved ~85–88% test accuracy after 30 epochs.  
