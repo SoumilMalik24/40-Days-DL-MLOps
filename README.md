@@ -111,3 +111,11 @@
 - Understood patch embedding, positional encoding, and self-attention.  
 - Observed that ViT performs competitively even without convolution layers.  
 - Achieved ~85–88% test accuracy after 30 epochs.  
+
+## Day 16 - RNN Fundamentals
+
+- Learned how RNNs handle sequential data through hidden states.  
+- Understood forward pass, recurrence, and vanishing gradient issue.  
+- Implemented a Simple RNN for sentiment analysis on IMDB dataset.  
+- Compared sequence learning with previous CNN-based architectures.  
+- Achieved ~83–85% accuracy after 10 epochs.  
