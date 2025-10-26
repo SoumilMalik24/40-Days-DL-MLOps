@@ -119,3 +119,10 @@
 - Implemented a Simple RNN for sentiment analysis on IMDB dataset.  
 - Compared sequence learning with previous CNN-based architectures.  
 - Achieved ~83–85% accuracy after 10 epochs.  
+
+## Day 17 - LSTM & GRU
+
+- Understood how LSTMs and GRUs overcome RNN’s vanishing gradient problem.  
+- Implemented and compared LSTM and GRU models on IMDB sentiment analysis.  
+- LSTM captured long-term dependencies better; GRU trained faster with similar accuracy.  
+- Achieved ~88–89% accuracy with LSTM and ~87–88% with GRU.  
