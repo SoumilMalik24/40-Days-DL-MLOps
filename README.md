@@ -134,3 +134,11 @@
 - Compared static vs contextual embeddings (Word2Vec vs BERT).  
 - Achieved ~86–88% accuracy on IMDB with learned embeddings.  
 - Prepared ground for contextual embeddings (Day 22 - BERT).  
+
+## Day 19 - Sentiment Analysis Project
+
+- Built a complete end-to-end sentiment analysis pipeline using IMDB dataset.  
+- Implemented an LSTM model with word embeddings and dropout regularization.  
+- Visualized training, validation, and confusion matrix results.  
+- Achieved ~90% accuracy on IMDB test set.  
+- Saved the trained model for later deployment (Day 30+ in MLOps).  
