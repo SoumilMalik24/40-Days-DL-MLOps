@@ -126,3 +126,11 @@
 - Implemented and compared LSTM and GRU models on IMDB sentiment analysis.  
 - LSTM captured long-term dependencies better; GRU trained faster with similar accuracy.  
 - Achieved ~88–89% accuracy with LSTM and ~87–88% with GRU.  
+
+## Day 18 - NLP & Word Embeddings
+
+- Understood how word embeddings represent semantic meaning in vector space.  
+- Implemented a simple embedding-based sentiment model using Keras.  
+- Compared static vs contextual embeddings (Word2Vec vs BERT).  
+- Achieved ~86–88% accuracy on IMDB with learned embeddings.  
+- Prepared ground for contextual embeddings (Day 22 - BERT).  
