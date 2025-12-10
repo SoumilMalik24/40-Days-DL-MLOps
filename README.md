@@ -142,3 +142,10 @@
 - Visualized training, validation, and confusion matrix results.  
 - Achieved ~90% accuracy on IMDB test set.  
 - Saved the trained model for later deployment (Day 30+ in MLOps).  
+
+## Day 20 - Attention Mechanisms
+
+- Learned how attention allows neural networks to focus on important sequence parts.  
+- Implemented a custom attention layer on top of a Bidirectional LSTM.  
+- Observed significant improvement over plain RNN/LSTM models.  
+- Achieved ~90–91% accuracy on the IMDB dataset.  
