@@ -149,3 +149,11 @@
 - Implemented a custom attention layer on top of a Bidirectional LSTM.  
 - Observed significant improvement over plain RNN/LSTM models.  
 - Achieved ~90–91% accuracy on the IMDB dataset.  
+
+## Day 21 - Transformer From Scratch
+
+- Learned the full architecture of a Transformer Encoder.  
+- Implemented positional encoding, multi-head attention, and feed-forward networks manually.  
+- Built a mini Transformer for IMDB sentiment analysis.  
+- Achieved ~87–89% accuracy without pretraining.  
+- Prepared foundation for Day 22 (BERT using Hugging Face).  
