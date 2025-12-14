@@ -165,3 +165,11 @@
 - Fine-tuned bert-base-uncased on IMDB sentiment dataset.  
 - Used Hugging Face Trainer API for efficient training.  
 - Achieved ~92–94% accuracy, outperforming all previous NLP models.  
+
+## Day 23 - Image Captioning
+
+- Learned multimodal deep learning using CNN + LSTM architecture.  
+- Understood encoder–decoder paradigm for vision-language tasks.  
+- Studied image feature extraction using pretrained CNNs.  
+- Implemented a simplified image captioning pipeline.  
+- Built foundation for advanced multimodal models (CLIP, BLIP).  
