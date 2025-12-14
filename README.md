@@ -157,3 +157,11 @@
 - Built a mini Transformer for IMDB sentiment analysis.  
 - Achieved ~87–89% accuracy without pretraining.  
 - Prepared foundation for Day 22 (BERT using Hugging Face).  
+
+## Day 22 - BERT & Hugging Face
+
+- Learned how BERT uses bidirectional Transformers for language understanding.  
+- Understood pretraining tasks: MLM and NSP.  
+- Fine-tuned bert-base-uncased on IMDB sentiment dataset.  
+- Used Hugging Face Trainer API for efficient training.  
+- Achieved ~92–94% accuracy, outperforming all previous NLP models.  
