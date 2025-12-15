@@ -173,3 +173,11 @@
 - Studied image feature extraction using pretrained CNNs.  
 - Implemented a simplified image captioning pipeline.  
 - Built foundation for advanced multimodal models (CLIP, BLIP).  
+
+## Day 24 - Deep Learning Capstone Project
+
+- Built an end-to-end sentiment intelligence system using BERT.
+- Fine-tuned a pretrained Transformer on IMDB dataset.
+- Designed a production-style deep learning pipeline.
+- Achieved ~93–94% accuracy on test data.
+- Prepared the model for deployment and MLOps integration.
