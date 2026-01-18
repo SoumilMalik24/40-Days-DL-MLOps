@@ -197,3 +197,11 @@
 - Logged parameters, metrics, and model artifacts using MLflow.
 - Compared experiment runs using MLflow UI.
 - Prepared foundation for model registry and deployment.
+
+## Day 27 - Data Version Control (DVC)
+
+- Learned why data versioning is critical in ML systems.
+- Understood how DVC extends Git for large datasets.
+- Versioned datasets using `.dvc` files.
+- Integrated data tracking with Git workflows.
+- Prepared foundation for reproducible ML pipelines.
