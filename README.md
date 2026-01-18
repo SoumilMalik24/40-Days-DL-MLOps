@@ -181,3 +181,11 @@
 - Designed a production-style deep learning pipeline.
 - Achieved ~93–94% accuracy on test data.
 - Prepared the model for deployment and MLOps integration.
+
+## Day 25 - Introduction to MLOps
+
+- Learned what MLOps is and why it is critical for production ML systems.
+- Studied the complete ML lifecycle and common failure points.
+- Understood data versioning, experiment tracking, deployment, and monitoring.
+- Designed a scalable project structure for future MLOps work.
+- Prepared foundation for MLflow and DVC integration.
