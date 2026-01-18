@@ -189,3 +189,11 @@
 - Understood data versioning, experiment tracking, deployment, and monitoring.
 - Designed a scalable project structure for future MLOps work.
 - Prepared foundation for MLflow and DVC integration.
+
+## Day 26 - Experiment Tracking with MLflow
+
+- Learned why experiment tracking is essential in ML systems.
+- Understood MLflow components and lifecycle integration.
+- Logged parameters, metrics, and model artifacts using MLflow.
+- Compared experiment runs using MLflow UI.
+- Prepared foundation for model registry and deployment.
