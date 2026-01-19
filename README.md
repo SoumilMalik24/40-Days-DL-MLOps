@@ -205,3 +205,11 @@
 - Versioned datasets using `.dvc` files.
 - Integrated data tracking with Git workflows.
 - Prepared foundation for reproducible ML pipelines.
+
+## Day 28 - Model Registry & Model Versioning
+
+- Learned why model versioning is essential in production ML systems.
+- Understood MLflow Model Registry and lifecycle stages.
+- Registered trained models with version control.
+- Managed promotion to staging and production.
+- Completed the model governance pillar of MLOps.
