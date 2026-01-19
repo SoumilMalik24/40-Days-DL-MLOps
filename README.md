@@ -213,3 +213,10 @@
 - Registered trained models with version control.
 - Managed promotion to staging and production.
 - Completed the model governance pillar of MLOps.
+
+## Day 29 - Modular Training Pipelines
+
+- Learned why modular ML pipelines are essential for production systems.
+- Refactored monolithic scripts into reusable components.
+- Implemented config-ready training and evaluation logic.
+- Prepared training code for MLflow, DVC, and deployment.
