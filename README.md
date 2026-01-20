@@ -220,3 +220,19 @@
 - Refactored monolithic scripts into reusable components.
 - Implemented config-ready training and evaluation logic.
 - Prepared training code for MLflow, DVC, and deployment.
+
+## Day 30 - Model Serving with FastAPI
+
+- Learned how ML models are served in production systems.
+- Built a real-time inference API using FastAPI.
+- Defined request and response schemas with Pydantic.
+- Loaded trained model efficiently at application startup.
+- Prepared the service for containerization and deployment.
+
+## Day 31 - Dockerization of ML Systems
+
+- Learned why Docker is essential for production ML systems.
+- Containerized a FastAPI inference service.
+- Wrote a Dockerfile and requirements.txt for ML deployment.
+- Built and ran Docker containers locally.
+- Prepared the system for cloud deployment.
