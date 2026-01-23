@@ -236,3 +236,11 @@
 - Wrote a Dockerfile and requirements.txt for ML deployment.
 - Built and ran Docker containers locally.
 - Prepared the system for cloud deployment.
+
+## Day 32 - Cloud Deployment
+
+- Learned how ML systems are deployed to cloud platforms.
+- Deployed a Dockerized FastAPI inference service.
+- Configured cloud build and start commands.
+- Exposed a public prediction endpoint.
+- Completed the deployment phase of MLOps.
