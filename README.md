@@ -244,3 +244,11 @@
 - Configured cloud build and start commands.
 - Exposed a public prediction endpoint.
 - Completed the deployment phase of MLOps.
+
+## Day 33 - Model Monitoring & Drift Detection
+
+- Learned why deployed ML models degrade over time.
+- Studied data drift, concept drift, and prediction drift.
+- Implemented data drift detection using Evidently AI.
+- Generated monitoring reports for production models.
+- Closed the feedback loop in the ML lifecycle.
