@@ -252,3 +252,11 @@
 - Implemented data drift detection using Evidently AI.
 - Generated monitoring reports for production models.
 - Closed the feedback loop in the ML lifecycle.
+
+## Day 34 - CI/CD Automation for ML Systems
+
+- Learned CI/CD concepts specific to ML systems.
+- Designed an automated pipeline using GitHub Actions.
+- Validated ML inference during CI runs.
+- Automated Docker image builds.
+- Improved reliability and deployment safety.
