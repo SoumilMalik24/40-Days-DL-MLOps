@@ -268,3 +268,11 @@
 - Connected UI to backend FastAPI service.
 - Enabled non-technical interaction with ML models.
 - Created a demo-ready ML product interface.
+
+## Day 36 - Documentation & Model Cards
+
+- Learned why documentation is essential for ML systems.
+- Created a model card describing model behavior and limitations.
+- Documented inference API endpoints.
+- Improved transparency and maintainability of the ML system.
+- Prepared the system for collaboration and audits.
