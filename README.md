@@ -260,3 +260,11 @@
 - Validated ML inference during CI runs.
 - Automated Docker image builds.
 - Improved reliability and deployment safety.
+
+## Day 35 - Streamlit Interface
+
+- Learned why ML systems need a product layer.
+- Built a Streamlit UI for ML inference.
+- Connected UI to backend FastAPI service.
+- Enabled non-technical interaction with ML models.
+- Created a demo-ready ML product interface.
