@@ -276,3 +276,11 @@
 - Documented inference API endpoints.
 - Improved transparency and maintainability of the ML system.
 - Prepared the system for collaboration and audits.
+
+## Day 37 - Git Workflow & Collaboration
+
+- Learned Git workflows tailored for ML projects.
+- Studied branching strategies and pull request practices.
+- Integrated Git workflows with CI/CD pipelines.
+- Understood collaboration challenges in ML systems.
+- Prepared for team-based MLOps development.
